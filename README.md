@@ -11,4 +11,4 @@ Steps to follow :
 4. Open a pull request.
 
 > Note
-Please follow and leave a start if you like my profile.
+Please follow and leave a star ⭐ if you like my profile.
