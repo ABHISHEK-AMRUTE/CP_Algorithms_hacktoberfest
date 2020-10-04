@@ -9,3 +9,6 @@ Steps to follow :
 2. Write your name and college name in the same file using multiline comments.
 3. Add that file in the folder of that language.For example cpp files will go in C++ folder.
 4. Open a pull request.
+
+# Note
+Please follow and leave a start if you like my profile.
