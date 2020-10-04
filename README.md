@@ -10,5 +10,5 @@ Steps to follow :
 3. Add that file in the folder of that language.For example cpp files will go in C++ folder.
 4. Open a pull request.
 
-# Note
+> Note
 Please follow and leave a start if you like my profile.
