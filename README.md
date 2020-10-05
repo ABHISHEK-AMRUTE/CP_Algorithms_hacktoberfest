@@ -10,5 +10,11 @@ Steps to follow :
 3. Add that file in the folder of that language.For example cpp files will go in C++ folder.
 4. Open a pull request.
 
-> Note
+# Note
 Please follow and leave a star ⭐ if you like my profile.
+
+# Top contibuters
+1. [ShirishPSingh](https://github.com/ShirishPSingh)
+2. [imakshat01](https://github.com/imakshat01)
+3. [Kartik Arora](https://github.com/Kartik987)
+
