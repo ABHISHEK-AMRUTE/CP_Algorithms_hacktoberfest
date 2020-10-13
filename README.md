@@ -15,6 +15,6 @@ Please follow and leave a star ⭐ if you like my profile.
 
 # Top contibuters
 
-1. [Pragya Jaiswal](https://github.com/pragyajaiswa05l)
-2. [Tiger16199620](https://github.com/Tiger16199620)
-3. [ShirishPSingh](https://github.com/ShirishPSingh)
+1. [Shikha1806](https://github.com/Shikha1806)
+2. [Prerna2109](https://github.com/Prerna2109)
+3. [Swati2303](https://github.com/Swati2303)
