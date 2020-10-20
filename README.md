@@ -19,10 +19,11 @@ Please follow and leave a star ⭐ if you like my profile.
 1. [Rahul5choudhary](https://github.com/Rahul5choudhary) 
 
 5 commits:
-2. [Rishabh Dutt](https://github.com/rishabh3)
-2. [Tiger16199620](https://github.com/Tiger16199620)
-2. [Neeraj-Mirji](https://github.com/Neeraj-Mirji)
-3. [Pragya Jaiswal](https://github.com/pragyajaiswa05l)
+
+2. [Rishabh Dutt](https://github.com/rishabh3) 
+2. [Tiger16199620](https://github.com/Tiger16199620) 
+2. [Neeraj-Mirji](https://github.com/Neeraj-Mirji) 
+3. [Pragya Jaiswal](https://github.com/pragyajaiswa05l) 
 
 4 commits:
 
