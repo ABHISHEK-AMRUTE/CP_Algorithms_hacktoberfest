@@ -14,18 +14,19 @@ Steps to follow :
 Please follow and leave a star ⭐ if you like my profile.
 
 # Top contibuters
-13 commits:
+16 commits:
 
 1. [Rahul5choudhary](https://github.com/Rahul5choudhary) 
 
 5 commits:
-
+2. [Rishabh Dutt](https://github.com/rishabh3)
+2. [Tiger16199620](https://github.com/Tiger16199620)
 2. [Neeraj-Mirji](https://github.com/Neeraj-Mirji)
 3. [Pragya Jaiswal](https://github.com/pragyajaiswa05l)
 
 4 commits:
 
-2. [Tiger16199620](https://github.com/Tiger16199620)
+
 2. [Shikha1806](https://github.com/Shikha1806)
 2. [Prerna2109](https://github.com/Prerna2109)
 2. [Swati2303](https://github.com/Swati2303)
