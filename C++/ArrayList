@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int brothers[5] = {6,3,24,12,22};
+    int i = 0;
+    int eldestAge = 0;
+
+    for (int j = 0; j < brothers[i]; ++j)
+        {
+            if (eldestAge < brothers[i])
+            {
+                eldestAge = brothers[i];
+            }
+            else
+            {
+                // Shahbaz Alam
+                //Birla Institute of Technology Mesra
+            }
+        }
+
+        cout << "Eldest Age is = " + eldestAge << endl;
+
+        system("pause");
+}
