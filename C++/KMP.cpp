@@ -1,3 +1,6 @@
+// NAME : Yashi Srivastava
+// COLLEGE: VIT Chennai
+
 #include <iostream>
 using namespace std;
 void KMP(string X, string Y)
