@@ -32,5 +32,6 @@ Please follow and leave a star ⭐ if you like my profile.
 2. [Prerna2109](https://github.com/Prerna2109)
 2. [Swati2303](https://github.com/Swati2303)
 2. [shikha1510](https://github.com/shikha1510)
+2. [Yashi Srivastava](https://github.com/yashii)
 2. [ShirishPSingh](https://github.com/ShirishPSingh)
 
