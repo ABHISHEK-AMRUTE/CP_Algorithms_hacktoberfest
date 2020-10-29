@@ -18,20 +18,15 @@ Please follow and leave a star ⭐ if you like my profile.
 
 1. [Rahul5choudhary](https://github.com/Rahul5choudhary) 
 
+6 commits:
+
+2. [Sreejan-22](https://github.com/Sreejan-22)
+
 5 commits:
 
-2. [Rishabh Dutt](https://github.com/rishabh3) 
-2. [Tiger16199620](https://github.com/Tiger16199620) 
-2. [Neeraj-Mirji](https://github.com/Neeraj-Mirji) 
+3. [Rishabh Dutt](https://github.com/rishabh3) 
+3. [Tiger16199620](https://github.com/Tiger16199620) 
+3. [Neeraj-Mirji](https://github.com/Neeraj-Mirji) 
 3. [Pragya Jaiswal](https://github.com/pragyajaiswa05l) 
 
-4 commits:
-
-
-2. [Shikha1806](https://github.com/Shikha1806)
-2. [Prerna2109](https://github.com/Prerna2109)
-2. [Swati2303](https://github.com/Swati2303)
-2. [shikha1510](https://github.com/shikha1510)
-2. [Yashi Srivastava](https://github.com/yashii)
-2. [ShirishPSingh](https://github.com/ShirishPSingh)
 
