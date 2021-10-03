@@ -12,21 +12,3 @@ Steps to follow :
 
 # Note
 Please follow and leave a star ⭐ if you like my profile.
-
-# Top contibuters
-18 commits:
-
-1. [Rahul5choudhary](https://github.com/Rahul5choudhary) 
-
-6 commits:
-
-2. [Sreejan-22](https://github.com/Sreejan-22)
-
-5 commits:
-
-3. [Rishabh Dutt](https://github.com/rishabh3) 
-3. [Tiger16199620](https://github.com/Tiger16199620) 
-3. [Neeraj-Mirji](https://github.com/Neeraj-Mirji) 
-3. [Pragya Jaiswal](https://github.com/pragyajaiswa05l) 
-
-
