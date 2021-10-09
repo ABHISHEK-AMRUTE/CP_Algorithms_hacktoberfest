@@ -1,3 +1,8 @@
+/*
+Name - Diwakar Singh
+College - Army Institute of Technology
+*/
+
 #include<iostream>
 using namespace std;
 
