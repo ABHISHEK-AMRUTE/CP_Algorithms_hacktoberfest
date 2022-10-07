@@ -4,32 +4,32 @@ using namespace std;
 
 int main() {
 	// your code goes here
-    int meranumber;
-	cin >> meranumber;
-	for(int i =0; i < meranumber; i++){
+    int number;
+	cin >> number;
+	for(int i =0; i < number; i++){
         int temp;
         cin>>temp;
-        string testkarunga;
-        cin>> testkarunga;
-        string nayastring="";
+        string test;
+        cin>> test;
+        string newstring="";
         int x=0;
         int y=temp-1;
         while(x<=y){
-            if(testkarunga[x]=='0'){
-                nayastring=testkarunga[x]+nayastring;
+            if(test[x]=='0'){
+                newstring=test[x]+newstring;
             }
             else
-            nayastring=nayastring+testkarunga[x];
+            newstring=newstring+test[x];
             if(x<y){
-                if(testkarunga[y]=='0')
-                nayastring=nayastring+testkarunga[y];
+                if(test[y]=='0')
+                newstring=newstring+test[y];
                 else
-                nayastring=testkarunga[y]+nayastring;
+                newstring=test[y]+newstring;
                 y--;
             }
             x++;
         }
-        cout<<nayastring<<endl;
+        cout<<newstring<<endl;
     }
 	
 	
